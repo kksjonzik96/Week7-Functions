@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.exe
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.deps.json
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.dll
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\bin\Debug\net5.0\ref\UserNameDataTask.dll
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\bin\Debug\net5.0\UserNameDataTask.pdb
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.dll
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\obj\Debug\net5.0\ref\UserNameDataTask.dll
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.pdb
+D:\Programmeerimise algkursus (RKE132)\Functions\UserNameDataTask\obj\Debug\net5.0\UserNameDataTask.genruntimeconfig.cache
